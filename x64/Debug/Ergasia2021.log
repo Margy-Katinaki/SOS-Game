@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\Margy\Documents\ΣΧΟΛΗ\3ο Εξάμηνο\C++\Ergasia2021\Game.cpp(51,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Margy\Documents\ΣΧΟΛΗ\3ο Εξάμηνο\C++\Ergasia2021\Game.cpp(51,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Margy\Documents\ΣΧΟΛΗ\3ο Εξάμηνο\C++\Ergasia2021\Game.cpp(52,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Margy\Documents\ΣΧΟΛΗ\3ο Εξάμηνο\C++\Ergasia2021\Game.cpp(52,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Margy\Documents\ΣΧΟΛΗ\3ο Εξάμηνο\C++\Ergasia2021\Game.cpp(62,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Margy\Documents\ΣΧΟΛΗ\3ο Εξάμηνο\C++\Ergasia2021\Game.cpp(63,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Margy\Documents\ΣΧΟΛΗ\3ο Εξάμηνο\C++\Ergasia2021\Game.cpp(63,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Ergasia2021.vcxproj -> C:\Users\Margy\Documents\ΣΧΟΛΗ\3ο Εξάμηνο\C++\Ergasia2021\x64\Debug\Ergasia2021.exe
